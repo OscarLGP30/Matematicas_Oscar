@@ -20,17 +20,4 @@ public interface Polinomio {
     public boolean equals(Polinomio polinomio);
     public String toString();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
